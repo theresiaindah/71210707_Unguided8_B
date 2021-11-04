@@ -1,0 +1,12 @@
+gelas A menampung 1000L
+gelas B menampung 700L
+gelas C menampung 300L
+gelas D menampung 100L
+
+gelas A mengalir 1000L tetapi karena lubang terdapat ditengah botol sehingga hanya mengalir setengah dari 1000L jadi hanya mengalir 500L.
+gelas B mengalir 1200L karena awal mula 700L tetapi ditambah dengan aliran dari gelas A sehingga menjadi 1200L.
+gelas C mengalir 900L karena awal mula 300L tetapi ditambah dengan aliran dari gelas B sehingga menjadi 900L.
+gelas D mengalir 400L karena awal mula 100L tetapi ditambah dengan aliran dari gelas C sehingga menjadi 400L.
+
+if 400L
+
